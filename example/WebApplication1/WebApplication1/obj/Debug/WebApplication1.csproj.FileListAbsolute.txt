@@ -6,3 +6,9 @@ D:\My Projects\bs.pagination.js\bs.pagination.js\example\WebApplication1\WebAppl
 D:\My Projects\bs.pagination.js\bs.pagination.js\example\WebApplication1\WebApplication1\bin\WebApplication1.pdb
 D:\My Projects\bs.pagination.js\bs.pagination.js\example\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\My Projects\bs.pagination.js\bs.pagination.js\example\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Laptop\Documents\GitHub\bs.pagination.js\example\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Laptop\Documents\GitHub\bs.pagination.js\example\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Laptop\Documents\GitHub\bs.pagination.js\example\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Laptop\Documents\GitHub\bs.pagination.js\example\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\bs.pagination.js\example\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Laptop\Documents\GitHub\bs.pagination.js\example\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
